@@ -1,0 +1,7 @@
+.env
+build/
+*.pyc
+__pycache__/
+*.pyo
+*.mo
+*.pyi18n

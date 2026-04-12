@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather 1.0.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add city"
+msgstr "Add city"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Could not load weather data"
+msgstr "Could not load weather data"
+
+msgid "Daily forecast"
+msgstr "Daily forecast"
+
+msgid "Enter city name"
+msgstr "Enter city name"
+
+msgid "Feels like"
+msgstr "Feels like"
+
+msgid "Friday"
+msgstr "Friday"
+
+msgid "Humidity"
+msgstr "Humidity"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "Manage cities"
+msgstr "Manage cities"
+
+msgid "Monday"
+msgstr "Monday"
+
+msgid "Move down"
+msgstr "Move down"
+
+msgid "Move up"
+msgstr "Move up"
+
+msgid "Next 4 hours"
+msgstr "Next 4 hours"
+
+msgid "No city configured"
+msgstr "No city configured"
+
+msgid "No city matches found"
+msgstr "No city matches found"
+
+msgid "Precipitation"
+msgstr "Precipitation"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Remove city"
+msgstr "Remove city"
+
+msgid "Saturday"
+msgstr "Saturday"
+
+msgid "Search city"
+msgstr "Search city"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Sunday"
+msgstr "Sunday"
+
+msgid "Thursday"
+msgstr "Thursday"
+
+msgid "Today"
+msgstr "Today"
+
+msgid "Tuesday"
+msgstr "Tuesday"
+
+msgid "Weather"
+msgstr "Weather"
+
+msgid "Wednesday"
+msgstr "Wednesday"
+
+msgid "Wind"
+msgstr "Wind"

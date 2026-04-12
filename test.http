@@ -1,0 +1,29 @@
+@geoBaseUrl = https://geocoding-api.open-meteo.com
+@weatherBaseUrl = https://api.open-meteo.com
+@city = Berlin
+@latitude = 52.52
+@longitude = 13.41
+@timezone = Europe/Berlin
+
+### 1) Search city
+# @name geocodeCity
+GET {{geoBaseUrl}}/v1/search?name={{city}}&count=8&language=en&format=json
+Accept: application/json
+
+{{
+  const first = response.parsedBody?.results?.[0];
+  if (first) {
+    exports.latitude = first.latitude;
+    exports.longitude = first.longitude;
+    exports.timezone = first.timezone || variables.timezone;
+  }
+}}
+
+### 2) Current + hourly + daily weather by coordinates
+# @ref geocodeCity
+GET {{weatherBaseUrl}}/v1/forecast?latitude={{latitude}}&longitude={{longitude}}&current=temperature_2m,weather_code&hourly=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&forecast_days=7&timezone={{timezone}}
+Accept: application/json
+
+### 3) Direct weather sample (Munich)
+GET {{weatherBaseUrl}}/v1/forecast?latitude=48.14&longitude=11.58&current=temperature_2m,weather_code&hourly=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&forecast_days=7&timezone=Europe%2FBerlin
+Accept: application/json

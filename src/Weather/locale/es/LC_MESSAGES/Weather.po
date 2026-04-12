@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather 1.0.0\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add city"
+msgstr "Añadir ciudad"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Could not load weather data"
+msgstr "No se pudieron cargar los datos meteorológicos"
+
+msgid "Daily forecast"
+msgstr "Pronóstico diario"
+
+msgid "Enter city name"
+msgstr "Introduzca nombre de ciudad"
+
+msgid "Feels like"
+msgstr "Sensación"
+
+msgid "Friday"
+msgstr "Viernes"
+
+msgid "Humidity"
+msgstr "Humedad"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "Manage cities"
+msgstr "Gestionar ciudades"
+
+msgid "Monday"
+msgstr "Lunes"
+
+msgid "Move down"
+msgstr "Mover abajo"
+
+msgid "Move up"
+msgstr "Mover arriba"
+
+msgid "Next 4 hours"
+msgstr "Próximas 4 horas"
+
+msgid "No city configured"
+msgstr "Ninguna ciudad configurada"
+
+msgid "No city matches found"
+msgstr "No se encontraron ciudades"
+
+msgid "Precipitation"
+msgstr "Precipitación"
+
+msgid "Refresh"
+msgstr "Actualizar"
+
+msgid "Remove city"
+msgstr "Quitar ciudad"
+
+msgid "Saturday"
+msgstr "Sábado"
+
+msgid "Search city"
+msgstr "Buscar ciudad"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Sunday"
+msgstr "Domingo"
+
+msgid "Thursday"
+msgstr "Jueves"
+
+msgid "Today"
+msgstr "Hoy"
+
+msgid "Tuesday"
+msgstr "Martes"
+
+msgid "Weather"
+msgstr "Tiempo"
+
+msgid "Wednesday"
+msgstr "Miércoles"
+
+msgid "Wind"
+msgstr "Viento"

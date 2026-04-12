@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather 1.0.0\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add city"
+msgstr "Stadt hinzufügen"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Could not load weather data"
+msgstr "Wetterdaten konnten nicht geladen werden"
+
+msgid "Daily forecast"
+msgstr "Tagesvorhersage"
+
+msgid "Enter city name"
+msgstr "Stadtname eingeben"
+
+msgid "Feels like"
+msgstr "Gefühlt"
+
+msgid "Friday"
+msgstr "Freitag"
+
+msgid "Humidity"
+msgstr "Luftfeuchtigkeit"
+
+msgid "Information"
+msgstr "Informationen"
+
+msgid "Loading..."
+msgstr "Lade..."
+
+msgid "Manage cities"
+msgstr "Städte verwalten"
+
+msgid "Monday"
+msgstr "Montag"
+
+msgid "Move down"
+msgstr "Nach unten"
+
+msgid "Move up"
+msgstr "Nach oben"
+
+msgid "Next 4 hours"
+msgstr "Nächste 4 Stunden"
+
+msgid "No city configured"
+msgstr "Keine Stadt konfiguriert"
+
+msgid "No city matches found"
+msgstr "Keine passenden Städte gefunden"
+
+msgid "Precipitation"
+msgstr "Niederschlag"
+
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+msgid "Remove city"
+msgstr "Stadt entfernen"
+
+msgid "Saturday"
+msgstr "Samstag"
+
+msgid "Search city"
+msgstr "Stadt suchen"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Sunday"
+msgstr "Sonntag"
+
+msgid "Thursday"
+msgstr "Donnerstag"
+
+msgid "Today"
+msgstr "Heute"
+
+msgid "Tuesday"
+msgstr "Dienstag"
+
+msgid "Weather"
+msgstr "Wetter"
+
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+msgid "Wind"
+msgstr "Wind"
