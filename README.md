@@ -2,6 +2,8 @@
 
 [![Built with aiflow](https://img.shields.io/badge/built%20with-aiflow-6b46c1)](https://github.com/cyber93de/aiflow)
 
+📖 [Project page & install instructions](https://madoe21.github.io/enigma2-weather/)
+
 Enigma2 plugin that shows weather data from the [Open-Meteo](https://open-meteo.com/) API.
 
 ---
